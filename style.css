@@ -1,0 +1,28 @@
+.little_prince {
+    width: 500px;
+    margin: 20px auto;
+    line-height: 1.1;
+    font-size: 20px;
+}
+
+.little_prince img {
+    width: 500px;
+    height: auto;
+    border: 2px solid #ccc;
+}
+
+.little_prince p {
+    margin: 20px 0px 20px 0px;
+}
+
+.little_prince .underline {
+    text-decoration: underline;
+}
+
+.little_prince .highlight {
+    background: yellow;
+}
+
+.red {
+    color: red;
+}
